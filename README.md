@@ -7,7 +7,7 @@ This repository contains carefully curated resources, assignments, and best prac
 
 ## Training Modules & Wiki Links
 
-All detailed tutorials and tasks are maintained in the **[Wiki section](./wiki)** of this repository.
+All detailed tutorials and tasks are maintained in the **[Wiki section](https://github.com/jkcsoftwaresllp/sitp-25-resource/wiki)** of this repository.
 
 Below are the main learning areas with direct links to their Wiki pages:
 
